@@ -7,4 +7,4 @@ Oh = 0
 # Usage
 UhOh.exe expand path/to/file
 
-UhOh.exe restore path/to/file.uhoh .origFileExtension
+UhOh.exe restore path/to/file.uhoh
